@@ -15,17 +15,17 @@ Does the rate of successful landings increase over the years?
 Is there a relationship between variables such as payload mass, launch site, number of flights, orbits, and the success of the first stage landing?
 
 ## Methodolgy
-- Data collection methodology:
--  Using SpaceX Rest API
--  Using Web Scraping from Wikipedia
-- Perform data wrangling
--  Filtering the data
--  Dealing with missing values
--  Using One-hot encoding to convert categorical variables to numerical for easy model training.
-- Perform exploratory data analysis (EDA) using visualization and SQL
-- Perform interactive visual analytics using Folium and Plotly Dash
-- Perform predictive analysis using classification models
-- Build, tune, and evaluate classification models to ensure the best results. 
+- **Data collection methodology**:
+-   Using SpaceX Rest API
+-   Using Web Scraping from Wikipedia
+- **Perform data wrangling**
+-   Filtering the data
+-   Dealing with missing values
+* Using One-hot encoding to convert categorical variables to numerical for easy model training.
+* Perform exploratory data analysis (EDA) using visualization and SQL
+* Perform interactive visual analytics using Folium and Plotly Dash
+* Perform predictive analysis using classification models
+* Build, tune, and evaluate classification models to ensure the best results. 
 
 
 

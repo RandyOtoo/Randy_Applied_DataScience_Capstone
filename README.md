@@ -1,4 +1,4 @@
-# Randy_Applied_DataScience_Capstone
+# Randy's Applied Data Science Capstone
 
 ## Introduction
 

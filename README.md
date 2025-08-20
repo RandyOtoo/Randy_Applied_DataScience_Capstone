@@ -25,7 +25,11 @@ Is there a relationship between variables such as payload mass, launch site, num
 * Perform exploratory data analysis (EDA) using visualization and SQL
 * Perform interactive visual analytics using Folium and Plotly Dash
 * Perform predictive analysis using classification models
-* Build, tune, and evaluate classification models to ensure the best results. 
+* Build, tune, and evaluate classification models to ensure the best results.
+
+
+## Build an Interactive Dashboard with Plotly Dash
+<img width="1312" height="988" alt="image" src="https://github.com/user-attachments/assets/12747c4d-037e-479f-a3b4-c7cfdd06367c" />
 
 
 

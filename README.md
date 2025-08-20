@@ -31,6 +31,9 @@ Is there a relationship between variables such as payload mass, launch site, num
 ## Build an Interactive Dashboard with Plotly Dash
 <img width="1312" height="988" alt="image" src="https://github.com/user-attachments/assets/12747c4d-037e-479f-a3b4-c7cfdd06367c" />
 
+<img width="1300" height="899" alt="image" src="https://github.com/user-attachments/assets/08e169f7-12d3-4d39-adf4-9f8191cabca2" />
+
+
 
 
 
